@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: Genarative-AI
+Version: 0.0.0
+Summary: A small python package for ml app
+Home-page: https://github.com/asifikbal/Build a Medical Chatbot with Generative AI
+Author: asifikbal
+Author-email: ikbal22205101162@diu.edu.bd
+Project-URL: Bug Tracker, https://github.com/asifikbal/Build a Medical Chatbot with Generative AI/issues
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: project-url
+Dynamic: summary
+
+# Build-a-Medical-Chatbot-with-Generative-AI-
+Build a Medical Chatbot with Generative AI 
